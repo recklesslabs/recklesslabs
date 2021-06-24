@@ -1,5 +1,6 @@
 ### Hi there, welcome to recklesslabs' Github 👋
 
+#### Table of Contents
 
 - `wickedcraniums`: The OG wickedCraniums linked initally to the [TWC](https://etherscan.io/token/0x85f740958906b317de6ed79663012859067e745b) smart contract
 - `wickwdcraniums300x300`: Compressed versions of the Craniums. Useful for tools that don't wish to fetch the heavy versions.

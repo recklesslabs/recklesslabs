@@ -10,4 +10,4 @@
 - [`wickedstallions`](https://github.com/recklesslabs/wickedstallions): Holds metadata for the Wicked Stallions.
 - [`wickedcranium.com`](https://github.com/recklesslabs/wickedcranium.com): [https://wickedcranium.com/](https://wickedcranium.com/) official website code. 
 - [`wickedcraniums-x-popwonder`](https://github.com/recklesslabs/wickedcraniums-x-popwonder) holds the pop wonder collab metadata
-- [`cradle`](https://github.com/recklesslabs/cradle) holds the code for the wicked cranium cradle.
+- [`wicked-cranium-cradle`](https://github.com/recklesslabs/wicked-cranium-cradle) holds the code for the wicked cranium cradle.
